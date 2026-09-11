@@ -89,3 +89,4 @@ print(f"| Taxa de Variação     : {taxa_variacao:.2f}%")
 print()
 print("=" * 45)
 print("\n")
+
